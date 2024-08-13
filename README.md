@@ -27,7 +27,7 @@ HDMI/DP输出/HDMI音频✅
 
 受核显驱动影响（nootedred.kext），VCN（硬件编解码）暂时还有问题，只适合日常使用。
 
-因上传限制，请自行解压kexts驱动文件夹，其中缺乏AirportItlwm.kext(因特尔wifi驱动)，若有需要请自行前往https://github.com/OpenIntelWireless下载。
+因上传限制，请自行解压kexts驱动文件夹，其中缺乏AirportItlwm.kext(因特尔wifi驱动)，若有需要请自行前往 https://github.com/OpenIntelWireless
 
 --------------------------------------------------------------------------
 
